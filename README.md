@@ -1,2 +1,3 @@
-# nanditobandito.github.io
-Visualizations
+# Capstone Project
+
+Sudent Enrollement at ITCH in Mexico
