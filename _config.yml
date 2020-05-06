@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 
 name: Fernando Zambrano
+markdown: kramdown
