@@ -1,0 +1,5 @@
+CrsEn,Enrolled1,PassOut,PassIn,Fails,ValPass,ValFail,TruePass,TrueFail,FalsePass,FalseFail,PretTrue,FretTrue,PredAdmin,PredFret,PredPret,Final_Pred,S2_Enrolled,NewStudents,Fret,Pret,Frad,Prad,SummerFails,Admin
+DifCal,763,302,0,423,293,470,186,354,116,69,0.0,374.0,589.0,346.0,0.0,935.0,898,617.0,275,0.0,6,0.0,0.0,623.0
+IntCal,553,445,302,108,387,166,316,37,129,71,365.0,135.0,54.0,87.0,283.0,424.0,403,0.0,106,240.0,9,50.0,2.0,61.0
+VecCal,328,263,445,64,232,96,206,39,57,25,201.0,142.0,81.0,92.0,386.0,559.0,407,0.0,46,286.0,6,69.0,0.0,75.0
+DifEqs,254,215,263,39,173,81,152,18,63,21,90.0,59.0,71.0,28.0,138.0,237.0,206,0.0,39,103.0,0,64.0,0.0,64.0
